@@ -1,72 +1,66 @@
 # 🐊 GatorMate — The Revolution of Personalized Education
 
-**Welcome to GatorMate**, where we redefine what it means to *learn*.  
+**Notice:** Given GatorMate’s novelty, the codebase is **not publicly released**.  
+> For research verification or collaboration inquiries, please contact the developers listed below.
+
+---
+
+## 🚀 Welcome to the Future of Learning
+
+**GatorMate** is redefining what it means to teach and learn.  
 For the first time in human history, an AI can truly **teach like a human — and adapt like no human ever could**.
 
-GatorMate is the world’s first **complete AI teacher** capable of generating **naturally engaging, fluent video classes** that are *custom-built* for every individual student.  
-It identifies what a student **already knows**, what they **need to learn**, and how they **learn best** — then builds a personalized, high-quality class experience from the ground up.
+GatorMate is the world’s first **complete AI teacher**, capable of generating **naturally engaging, fluent video classes** tailored to each student’s **knowledge gaps**, **learning preferences**, and **academic goals**.
 
-But we didn’t stop there. Students can interact with the AI teacher in real time, asking questions and receiving clear, contextual answers — just like in a real classroom.
-
----
-
-## 🎓 Key Capabilities
-
-### 🧠 Personalized Learning
-Each class is dynamically generated according to:
-- The student’s **knowledge gaps**
-- The student’s **preferred learning style**
-- The exact **content they need to master**
+Students can even interact with the AI teacher — asking questions mid-class and receiving intelligent, contextual answers — just like in a real classroom.
 
 ---
 
-### 🗣️ Naturally Engaging Video Classes
-GatorMate produces **human-like, fluent narration** that feels natural and responsive — no robotic voices, no monotone delivery.
+## 🎯 What Makes GatorMate Revolutionary
 
-🎥 **Sample Personalized Class:**  
-https://github.com/user-attachments/assets/41f7a91b-0c55-46e6-baa1-d259b8e34042
+### 🧠 Personalized, Knowledge-Gap-Aware Classes  
+Every generated video class is built specifically for the student — teaching **exactly what they need**, in the **way they learn best**.
 
-🎥 **Knowledge-Gap Based Lesson Generation:**  
-[Watch here](https://github.com/user-attachments/assets/607a74a2-9b63-4786-8212-fdb9e0aaa4db)
+#### 🎥 Graduate-Level Personalized Class  
+https://github.com/user-attachments/assets/41f7a91b-0c55-46e6-baa1-d259b8e34042  
 
----
-
-### ♿ Accessibility-First Design
-Education should be for everyone.  
-For visually impaired learners, GatorMate automatically:
-- Adds **verbal descriptions** of slide visuals
-- **Adjusts narration speed** for better comprehension
-
-🎥 **Example – Accessible Class for the Visually Impaired:**  
-[Watch here](https://github.com/user-attachments/assets/a891c1c0-8dcc-4de5-b668-f4dbeada91f8)
+#### 🎥 High-Quality Class Targeting Knowledge Gaps  
+https://github.com/user-attachments/assets/607a74a2-9b63-4786-8212-fdb9e0aaa4db  
 
 ---
 
-### 🌍 Multilingual Teaching
-Learning is global — so is GatorMate.  
-Our AI can translate and generate classes in multiple languages while preserving tone and fluency.
+### ♿ Accessibility for the Visually Impaired  
+Our intelligent system automatically describes visual slide content, ensuring accessibility for blind and visually impaired learners.  
+It even **slows down narration speed** when needed for better comprehension.
 
-🎥 **Example – Spanish Translation from English Class:**  
-[Watch here](https://github.com/user-attachments/assets/ac1afd45-17dc-48e2-995f-c3f56dbabe05)
-
----
-
-## 🚀 Why GatorMate Matters
-GatorMate represents a leap forward in education technology:
-- **AI-powered personalization** down to individual knowledge gaps  
-- **Accessibility-aware delivery** that ensures inclusion  
-- **Interactive learning** where students can ask and get instant, intelligent answers  
-- **Natural, adaptive teaching** that scales to every learner on Earth  
-
-This is not just another educational tool — **this is the beginning of true personalized education**.
+#### 🎥 Example – Class for Visually Impaired Students  
+https://github.com/user-attachments/assets/a891c1c0-8dcc-4de5-b668-f4dbeada91f8  
 
 ---
 
-## 🔬 Authenticity and Research Access
-Given GatorMate’s novelty, the codebase is **not publicly released**.  
-For academic or verification purposes, you can reach out to the development team directly.
+### 🌍 Multilingual Support  
+GatorMate can **translate and generate** personalized video classes in multiple languages while preserving natural tone and engagement.
 
-**Contact the Developers:**
+#### 🎥 Example – Spanish Translation of an English Class  
+https://github.com/user-attachments/assets/ac1afd45-17dc-48e2-995f-c3f56dbabe05  
+
+---
+
+## 💡 Why GatorMate Matters
+
+- **Personalized learning** for every student  
+- **Accessibility-first design** for inclusivity  
+- **Real-time interactivity** — students can ask and get answers mid-class  
+- **AI-generated fluency** and engagement unlike any traditional video lesson  
+
+This is more than technology — it’s the beginning of **true individualized education**.
+
+---
+
+## 📩 Contact the Developers
+
+For inquiries, demonstrations, or verification access, please contact:
+
 - [mdtouhidul.islam@ufl.edu](mailto:mdtouhidul.islam@ufl.edu)  
 - [arnabdebnath@ufl.edu](mailto:arnabdebnath@ufl.edu)  
 - [khanthamidhasan@ufl.edu](mailto:khanthamidhasan@ufl.edu)  
@@ -75,13 +69,5 @@ For academic or verification purposes, you can reach out to the development team
 
 ---
 
-### 🧩 Developed by
-A passionate team of innovators from the **University of Florida**, dedicated to building the future of learning.
-
----
-
-> “GatorMate doesn’t just teach.  
-> It *understands* — and then it *teaches you*.”
-
----
-
+### 👩‍💻 Developed by
+A team of passionate innovators from the **University of Florida**, dedicated to creating the next generation of AI-driven education.

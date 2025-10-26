@@ -20,10 +20,11 @@ https://github.com/user-attachments/assets/607a74a2-9b63-4786-8212-fdb9e0aaa4db
 
 ---
 
-### ♿ Example - Accessibility for the Visually Impaired  
+### ♿ Accessibility for the Visually Impaired  
 Student can specify if they need any accessibility aid. Our intelligent AI system automatically describes out loud visual slide content, ensuring accessibility for blind and visually impaired learners. Note that it even **slows down narration speed** when needed for better comprehension.
  
 https://github.com/user-attachments/assets/a891c1c0-8dcc-4de5-b668-f4dbeada91f8  
+
 ---
 
 ### 🌍 Multilingual Support  
@@ -49,6 +50,7 @@ A team of passionate innovators from the **University of Florida**, dedicated to
 ---
 
 This is more than technology — it’s the beginning of **true individualized education**.
+
 
 
 

@@ -12,6 +12,7 @@ Below are the official demo videos demonstrating Gator-Mate’s capabilities acr
 ## 🌡️ Thermodynamics Generation Demo
 
 <p align="center">
+  <em>(click to play)</em><br>
   <a href="https://www.youtube.com/watch?v=zuUDn7A5M_0" target="_blank">
     <img src="https://img.youtube.com/vi/zuUDn7A5M_0/hqdefault.jpg" 
          alt="Thermodynamics Generation Demo" width="360">
@@ -23,6 +24,7 @@ Below are the official demo videos demonstrating Gator-Mate’s capabilities acr
 ## ♿ Thermodynamics – Blind-Accessible Version
 
 <p align="center">
+  <em>(click to play)</em><br>
   <a href="https://www.youtube.com/watch?v=WEuzYl7aTYU" target="_blank">
     <img src="https://img.youtube.com/vi/WEuzYl7aTYU/hqdefault.jpg" 
          alt="Thermodynamics Blind-Accessible Version" width="360">
@@ -34,6 +36,7 @@ Below are the official demo videos demonstrating Gator-Mate’s capabilities acr
 ## ⚙️ Hardware Metering Visualization
 
 <p align="center">
+  <em>(click to play)</em><br>
   <a href="https://www.youtube.com/watch?v=mDN3sKLmQ4E" target="_blank">
     <img src="https://img.youtube.com/vi/mDN3sKLmQ4E/hqdefault.jpg" 
          alt="Hardware Metering Visualization" width="360">
@@ -45,6 +48,7 @@ Below are the official demo videos demonstrating Gator-Mate’s capabilities acr
 ## 🌎 Thermodynamics (Spanish Version)
 
 <p align="center">
+  <em>(click to play)</em><br>
   <a href="https://www.youtube.com/watch?v=nQ_j_5nU-oQ" target="_blank">
     <img src="https://img.youtube.com/vi/nQ_j_5nU-oQ/hqdefault.jpg" 
          alt="Thermodynamics Spanish Version" width="360">

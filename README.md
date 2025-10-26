@@ -1,55 +1,39 @@
 # 🎥 Gator-Mate Demo Videos
 
-Welcome to the **Gator-Mate** demo showcase!  
-This folder contains all the generated demonstration videos created for the hackathon. Each video highlights a specific capability of the system.
+Welcome to the **Gator-Mate** hackathon showcase!  
+Below are the official demo videos highlighting different capabilities of the project.  
+Each thumbnail is clickable — just tap or click to watch the video on YouTube.
 
 ---
 
-## 📂 Video Demos
+## 🌡️ Thermodynamics Generation Demo
 
-### 🧪 Physics 101 Generation Demo
-<video src="./demo_vids/phy101_gen_vid.mp4" width="640" controls>
-</video>
+[![Thermodynamics Video](https://img.youtube.com/vi/zuUDn7A5M_0/maxresdefault.jpg)](https://www.youtube.com/watch?v=zuUDn7A5M_0 "Thermodynamics Generation Demo")
 
 ---
 
-### 🔥 Thermodynamics (Blind-Accessible Version)
-<video src="./demo_vids/thermo_gen_vid_blind.mp4" width="640" controls>
-</video>
+## ♿ Thermodynamics – Blind-Accessible Version
+
+[![Thermodynamics Blind-Accessible Video](https://img.youtube.com/vi/WEuzYl7aTYU/maxresdefault.jpg)](https://www.youtube.com/watch?v=WEuzYl7aTYU "Thermodynamics – Blind-Accessible Version")
 
 ---
 
-### 🌡️ Thermodynamics (Basic Version)
-<video src="./demo_vids/thermo_gen_vid_basic.mp4" width="640" controls></video>
+## ⚙️ Hardware Metering Visualization
 
----
-
-### ⚙️ Hardware Meter Visualization Demo
-<video src="./demo_vids/hwmeter_gen_video.mp4" width="640" controls></video>
-
----
-
-### 🌍 Multilingual Generation Showcase
-<video src="./demo_vids/multilingual_vid.mp4" width="640" controls></video>
+[![Hardware Metering Video](https://img.youtube.com/vi/mDN3sKLmQ4E/maxresdefault.jpg)](https://www.youtube.com/watch?v=mDN3sKLmQ4E "Hardware Metering Visualization")
 
 ---
 
 ## 🧠 About
 
-Each video in the `demo_vids` folder demonstrates a different capability of **Gator-Mate’s AI-driven video generation engine**, including:
-
-- 📚 Automated subject-specific educational video creation  
-- ♿ Accessibility-focused narration and visual adaptations  
-- 🌐 Multilingual generation and subtitle synchronization  
-- 🔧 Hardware-integrated content visualization  
+The **Gator-Mate** system demonstrates:
+- Automated AI video generation for education  
+- Accessibility-focused narration and visuals  
+- Hardware integration and performance visualization  
 
 ---
 
-## ▶️ How to Play
+## 📜 License
 
-You can **play any video directly on GitHub** by clicking the ▶️ button above each embedded player.  
-Alternatively, clone and play locally:
-
-```bash
-git clone https://github.com/<your-username>/gator-mate.git
-cd gator-mate/demo_vids
+All demo content © 2025 **Gator-Mate Hackathon Team**.  
+Videos hosted on YouTube for demonstration purposes only.

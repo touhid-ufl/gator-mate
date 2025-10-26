@@ -7,7 +7,7 @@ GatorMate generated a full-length class of a graduate-level course at UF- "Intro
 https://github.com/user-attachments/assets/41f7a91b-0c55-46e6-baa1-d259b8e34042  
 
 # **Notice:** Given GatorMate’s first-of-its kind nature, the codebase is **not publicly released**.
-> For verification of the codebase please contact the developers. We are happy to show you the codebase in person: mdtouhidul.islam@ufl.edu, arnabdebnath@ufl.edu, khanthamidhasan@ufl.edu, ymahmud@ufl.edu, md.hasan@ufl.edu
+> For verification of the codebase please contact the developers. We are happy to show you the codebase and the running system in person or through a Zoom call: mdtouhidul.islam@ufl.edu, arnabdebnath@ufl.edu, khanthamidhasan@ufl.edu, ymahmud@ufl.edu, md.hasan@ufl.edu
 
 ## **GatorMate** is redefining what it means to teach and learn.  
 
@@ -62,6 +62,7 @@ A team of passionate innovators from the **University of Florida**, dedicated to
 This is more than technology — it’s the beginning of **a new era of teaching and learning**.
 
 ---
+
 
 
 

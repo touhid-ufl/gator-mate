@@ -1,7 +1,7 @@
 # 🐊 GatorMate — Welcome to the Revolution of Education
 ## For the first time in human history, an AI can truly **teach like a human — and adapt like no human ever could**.
 
-**Notice:** Given GatorMate’s novelty, the codebase is **not publicly released**.  
+**Notice:** Given GatorMate’s first-of-its kind nature, the codebase is **not publicly released**.  
 > For verification of the codebase please contact the developers. We are happy to show you the codebase in person:  
 > mdtouhidul.islam@ufl.edu, arnabdebnath@ufl.edu, khanthamidhasan@ufl.edu, ymahmud@ufl.edu, md.hasan@ufl.edu
 ---
@@ -73,4 +73,5 @@ A team of passionate innovators from the **University of Florida**, dedicated to
 
 > “GatorMate doesn’t just teach.  
 > It *understands* — and then it *teaches you*.”
+
 

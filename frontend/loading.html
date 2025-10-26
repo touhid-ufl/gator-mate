@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Loading...</title>
+  <link rel="stylesheet" href="./assets/style.css"/>
+  <style>
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: linear-gradient(135deg, #0021A5, #FA4616);
+      color: white;
+      font-family: system-ui, sans-serif;
+      overflow: hidden;
+    }
+    .loader { text-align: center; animation: fadeIn 1s ease-in-out; }
+    .spinner {
+      width: 80px; height: 80px;
+      border: 8px solid rgba(255,255,255,0.3);
+      border-top-color: #fff; border-radius: 50%;
+      margin: 0 auto 20px; animation: spin 1s linear infinite;
+    }
+    .note { opacity: .9; font-size: .9rem; margin-top: .5rem }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes fadeIn { from { opacity: 0; transform: scale(0.95); } to { opacity: 1; transform: scale(1); } }
+  </style>
+</head>
+<body>
+  <div class="loader">
+    <div class="spinner"></div>
+    <h2>Generating your personalized class...</h2>
+    <p>Please wait a moment</p>
+    <p id="status" class="note"></p>
+  </div>
+
+  <script>
+    // -------------------- CONFIG --------------------
+    // Use HTTPS for remote (ngrok) backends to avoid mixed-content blocking
+    const BACKEND_URL = 'https://saunciest-unethereal-clora.ngrok-free.dev';
+  
+    // -------------------- PARAMS --------------------
+    const params = new URLSearchParams(location.search);
+    const courseId = params.get('id') || 'default';
+
+    // -------------------- POLLING -------------------
+    const statusEl = document.getElementById('status');
+
+    let backoff = 1200;          // start ~1.2s
+    const backoffMax = 5000;     // cap at 5s
+    let stopped = false;
+
+    // Pause polling if the tab is hidden to be nice to the backend
+    document.addEventListener('visibilitychange', () => {
+      stopped = document.hidden;
+      if (!stopped) poll();
+    });
+
+    async function poll() {
+      if (stopped) return;
+
+      // Abort each request after 7s to avoid hanging connections
+      const ctrl = new AbortController();
+      const timeout = setTimeout(() => ctrl.abort(), 7000);
+
+      try {
+        const url = `${BACKEND_URL}/api/check-status?ngrok-skip-browser-warning=true&_=${Date.now()}`;
+        const res = await fetch(url, {
+          cache: 'no-store',
+          headers: { 'ngrok-skip-browser-warning': 'true' },
+          signal: ctrl.signal
+        });
+        clearTimeout(timeout);
+
+        if (!res.ok) {
+          statusEl.textContent = `Waiting for backend… (${res.status})`;
+          return scheduleNext();
+        }
+
+        // If ngrok interstitial is returned, content-type may be text/html.
+        const ct = res.headers.get('content-type') || '';
+        if (!ct.includes('application/json')) {
+          statusEl.textContent = 'Connecting… (ngrok warning skipped)';
+          return scheduleNext();
+        }
+
+        const data = await res.json().catch(() => ({}));
+        if (data && data.ok && data.done) {
+          // Redirect while preserving ALL original query params
+          const next = new URL('./course-video.html', location.href);
+          next.search = location.search || `?id=${encodeURIComponent(courseId)}`;
+          location.href = next.toString();
+        } else {
+          statusEl.textContent = 'Still working…';
+          scheduleNext();
+        }
+      } catch (err) {
+        clearTimeout(timeout);
+        // Network/CORS/timeout—try again with backoff
+        statusEl.textContent = 'Reconnecting…';
+        scheduleNext();
+      }
+    }
+
+    function scheduleNext() {
+      backoff = Math.min(backoff * 1.3, backoffMax);
+      setTimeout(poll, backoff);
+    }
+
+    // Kick off
+    poll();
+  </script>
+</body>
+</html>

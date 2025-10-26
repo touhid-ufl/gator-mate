@@ -1,0 +1,62 @@
+{
+  "course": "thermodynamics",
+  "savedAt": "2025-10-26T18:50:28.334Z",
+  "responses": [
+    {
+      "question": "How well do you know about algebraic manipulation of equations (rearranging formulas, solving linear equations, proportional reasoning)?",
+      "answer": ""
+    },
+    {
+      "question": "How well do you know about interpreting and analyzing graphs (reading slopes, areas, and trends)?",
+      "answer": ""
+    },
+    {
+      "question": "How well do you know about basic derivatives (rates of change, rules for polynomials/exponentials, chain/product rules)?",
+      "answer": ""
+    },
+    {
+      "question": "How well do you know about basic integrals (areas under curves, definite integrals, simple u-substitution)?",
+      "answer": ""
+    },
+    {
+      "question": "How well do you know about exponentials and logarithms (ln, log10) and their properties?",
+      "answer": ""
+    },
+    {
+      "question": "How well do you know about SI units, unit conversions, and dimensional analysis?",
+      "answer": ""
+    },
+    {
+      "question": "How well do you know about basic mechanics concepts: work, energy, power, and conservation of energy?",
+      "answer": ""
+    },
+    {
+      "question": "How well do you know about temperature, pressure, volume, density, and converting temperature scales (Celsius–Kelvin)?",
+      "answer": ""
+    },
+    {
+      "question": "How well do you know about the ideal gas law (PV = nRT), moles, and using gas constants?",
+      "answer": ""
+    },
+    {
+      "question": "How well do you operate a scientific calculator (scientific notation, exponents/logs, parentheses, memory functions)?",
+      "answer": ""
+    },
+    {
+      "question": "How long do you want to take a session without any break? (e.g., 25 min, 45 min)",
+      "answer": ""
+    },
+    {
+      "question": "How would you like to understand the concept? (e.g., visual explanations, worked examples, problem sets)",
+      "answer": ""
+    },
+    {
+      "question": "Do you have any accessibility needs?",
+      "answer": ""
+    },
+    {
+      "question": "What best describes your learning context?",
+      "answer": ""
+    }
+  ]
+}

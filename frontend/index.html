@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>GatorMate</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/style.css"/>
+  <style>
+    /* ===== HEADER LAYOUT ===== */
+    .site-header {
+      background-color: #0021A5; /* UF Blue */
+      color: #fff;
+      padding: 2rem 0;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .site-logo {
+      width: 90px;
+      height: auto;
+      flex-shrink: 0;
+      border-radius: 0.5rem;
+      background: #fff;
+      padding: 0.5rem;
+    }
+
+    /* ===== TITLE AREA ===== */
+    .site-titles {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      text-align: left;
+    }
+
+    .main-title {
+      font-size: 2.5rem;
+      font-weight: 800;
+      margin: 0;
+      background: linear-gradient(90deg, #ffffff, #f9a825);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .subtitle {
+      font-size: 1.2rem;
+      font-weight: 500;
+      font-style: italic;
+      color: #ffffff;
+      margin: 0.3rem 0 0.8rem;
+      letter-spacing: 0.5px;
+    }
+
+    .subheading {
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: #ffffff;
+      margin: 0;
+    }
+
+    /* ===== NAVIGATION ===== */
+    .site-nav {
+      text-align: center;
+      margin-top: 1rem;
+    }
+
+    .nav-link {
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+      margin: 0 1rem;
+    }
+
+    .nav-link.active {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="brand">
+        <img src="./images/logo.png" alt="Site Logo" class="site-logo"/>
+        <div class="site-titles">
+          <h1 class="main-title">GatorMate</h1>
+          <p class="subtitle">Revolutionizing Education</p>
+          <h2 class="subheading">Courses</h2>
+        </div>
+      </div>
+      <nav class="site-nav">
+        <a href="./index.html" class="nav-link active">Home</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="course-grid" class="grid"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© <span id="year"></span></small>
+    </div>
+  </footer>
+
+  <script type="module">
+    import { qs, el } from './assets/ui.js';
+    qs('#year').textContent = new Date().getFullYear();
+    const grid = qs('#course-grid');
+    const courses = await (await fetch('./data/courses.json', { cache: 'no-store' })).json();
+    courses.forEach(c => {
+      const card = el('a', { class: 'card noimg', href: `./course.html?id=${encodeURIComponent(c.id)}` });
+      const body = el('div', { class: 'card-body' });
+      body.append(
+        el('h3', { class: 'card-title' }, c.title),
+        el('p', { class: 'card-text' }, c.description),
+        el('span', { class: 'btn btn-orange btn-sm' }, 'Open →')
+      );
+      card.append(body);
+      grid.append(card);
+    });
+  </script>
+</body>
+</html>

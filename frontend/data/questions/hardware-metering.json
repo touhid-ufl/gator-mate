@@ -1,0 +1,74 @@
+[
+  {
+    "key": "boolean_algebra_kmap",
+    "type": "radio",
+    "prompt": "How well do you know about Boolean algebra simplification and Karnaugh maps?",
+    "options": ["Strong", "Moderate", "Weak", "Zero"]
+  },
+  {
+    "key": "combinational_truth_tables",
+    "type": "radio",
+    "prompt": "How well do you know about designing combinational logic from truth tables and minimizing gate-level circuits?",
+    "options": ["Strong", "Moderate", "Weak", "Zero"]
+  },
+  {
+    "key": "sequential_fsm",
+    "type": "radio",
+    "prompt": "How well do you know about sequential logic and FSMs (state diagrams, Mealy vs Moore)?",
+    "options": ["Strong", "Moderate", "Weak", "Zero"]
+  },
+  {
+    "key": "sta_basics",
+    "type": "radio",
+    "prompt": "How well do you know about Static Timing Analysis concepts like setup time, hold time, and slack?",
+    "options": ["Strong", "Moderate", "Weak", "Zero"]
+  },
+  {
+    "key": "timing_reports_sdc",
+    "type": "radio",
+    "prompt": "How well do you know about reading timing reports and applying timing constraints (e.g., SDC)?",
+    "options": ["Strong", "Moderate", "Weak", "Zero"]
+  },
+  {
+    "key": "clocking_cdc",
+    "type": "radio",
+    "prompt": "How well do you know about clocking issues such as clock skew, jitter, and clock domain crossing/metastability?",
+    "options": ["Strong", "Moderate", "Weak", "Zero"]
+  },
+  {
+    "key": "asic_vs_fpga_flow",
+    "type": "radio",
+    "prompt": "How well do you know about the ASIC vs FPGA design flow (synthesis, place-and-route, bitstream/tapeout, sign-off)?",
+    "options": ["Strong", "Moderate", "Weak", "Zero"]
+  },
+  {
+    "key": "supply_chain_security",
+    "type": "radio",
+    "prompt": "How well do you know about hardware supply-chain security threats like overbuilding, cloning, and recycling?",
+    "options": ["Strong", "Moderate", "Weak", "Zero"]
+  },
+  {
+    "key": "session_length_freeform",
+    "type": "text",
+    "prompt": "How long do you want to take a session, without any break?",
+    "placeholder": "e.g., 30–45 minutes"
+  },
+  {
+    "key": "learning_method_freeform",
+    "type": "text",
+    "prompt": "How do you want to understand the concept?",
+    "placeholder": "e.g., visual explanations, hands-on labs, notes, worked examples"
+  },
+  {
+    "key": "accessibility_needs",
+    "type": "text",
+    "prompt": "Do you have any accessibility needs?",
+    "placeholder": "e.g., captions, transcripts, high-contrast visuals, keyboard navigation"
+  },
+  {
+    "key": "motivation",
+    "type": "radio",
+    "prompt": "Why do you want to understand the concept?",
+    "options": ["Academic Course", "Research-work", "Self-interest"]
+  }
+]

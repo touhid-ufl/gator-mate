@@ -34,6 +34,43 @@ GatorMate can **translate and generate** personalized video classes in multiple 
 https://github.com/user-attachments/assets/ac1afd45-17dc-48e2-995f-c3f56dbabe05  
 
 ---
+## ⚙️ Full Features List
+
+- **Dynamic Knowledge Mapping**  
+  Builds a comprehensive *knowledge map* for each student — identifying what they already know, what they don’t, and how each concept connects to their existing understanding.
+
+- **Human-Like Lecture Generation**  
+  Produces lectures in a **natural, emotionally expressive tone**, with a fluent and engaging delivery indistinguishable from a human instructor.
+
+- **Individually Tailored Content**  
+  Every lecture is uniquely generated based on the student’s learning needs — offering **more examples, analogies, or simplified explanations** where appropriate.
+
+- **Adaptive Visual Learning Support**  
+  For students who benefit from visual learning, GatorMate intelligently integrates **relevant YouTube videos** at the right points in the lecture — automatically selecting and trimming only the most relevant portions to maintain the natural flow of instruction.
+
+- **Interactive & Context-Aware Feedback**  
+  Enables real-time interactivity. Students can **pause the lecture**, ask questions, and receive **contextual, content-aware answers** — just like in a live classroom.
+
+- **Personalized Lecture Video Generation**  
+  Generates a complete, personalized lecture video using:
+  - The student’s **knowledge map** (what they know and don’t know)  
+  - **Course slides or PDFs**  
+  - **Course outline** *(optional)*  
+  - **Instructor’s lecture or transcript** *(optional)*  
+
+- **Accessibility-Aware Class Generation**  
+  Creates dedicated versions for students with impairments.  
+  For example, for **visually impaired students**, the AI:
+  - Provides detailed **verbal descriptions of diagrams and visuals**  
+  - Automatically **reduces narration speed** to enhance comprehension  
+
+- **Multilingual Capabilities**  
+  Can translate any English lecture into **naturally fluent speech** in multiple major languages, preserving tone, flow, and clarity.
+
+- **Slide-Only Mode**  
+  Even without a transcript, GatorMate can generate a **complete, coherent class** purely from course slides, automatically constructing explanations, transitions, and examples.
+
+
 
 ## 👩‍💻 Developed By
 
@@ -51,6 +88,7 @@ A team of passionate innovators from the **University of Florida**, dedicated to
 
 This is more than technology — it’s the beginning of **true individualized education**.
 
+---
 
 
 

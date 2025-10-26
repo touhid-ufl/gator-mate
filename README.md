@@ -35,15 +35,15 @@ https://github.com/user-attachments/assets/ac1afd45-17dc-48e2-995f-c3f56dbabe05
 
 ---
 ## ⚙️ Full Features List
-- Creates a comprehensive knowledge map outlining what each student knows and doesn’t know about relevant topics.  
-- Generates lectures with natural tone, emotion, and fluent delivery indistinguishable from a human instructor.  
-- Tailors lecture content to individual needs, adjusting examples, analogies, and explanations dynamically.  
-- Integrates relevant YouTube videos at precise points, showing only necessary segments to aid visual learning.  
-- Provides real-time interaction—students can pause, ask questions, and receive context-aware answers instantly, making generated classes dynamic.  
-- Generates personalized lecture videos using a student’s knowledge map, course slides, outlines, and transcripts.  
-- Produces specialized lectures for impaired students. For example, for visual impairment, it includes detailed verbal diagram descriptions and slower pacing.  
-- Supports multilingual generation, translating English classes into naturally fluent other major languages.  
-- Can generate complete, coherent lectures using only course slides when no transcript is available.  
+✅ Creates a comprehensive knowledge map outlining what each student knows and doesn’t know about relevant topics.  
+🎙️ Generates lectures with natural tone, emotion, and fluent delivery indistinguishable from a human instructor.  
+🎯 Tailors lecture content to individual needs, adjusting examples, analogies, and explanations dynamically.  
+🎥 Integrates relevant YouTube videos at precise points, showing only necessary segments to aid visual learning.  
+💬 Provides real-time interaction—students can pause, ask questions, and receive context-aware answers instantly, making generated classes dynamic.  
+📚 Generates personalized lecture videos using a student’s knowledge map, course slides, outlines, and transcripts.  
+♿ Produces specialized lectures for impaired students. For example, for visual impairment, it includes detailed verbal diagram descriptions and slower pacing.  
+🌍 Supports multilingual generation, translating English classes into naturally fluent other major languages.  
+🧩 Can generate complete, coherent lectures using only course slides when no transcript is available.  
 
 ## 👩‍💻 Developed By
 
@@ -62,6 +62,7 @@ A team of passionate innovators from the **University of Florida**, dedicated to
 This is more than technology — it’s the beginning of **a new era of teaching and learning**.
 
 ---
+
 
 
 

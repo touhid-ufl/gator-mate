@@ -24,7 +24,7 @@ Each class is dynamically generated according to:
 GatorMate produces **human-like, fluent narration** that feels natural and responsive — no robotic voices, no monotone delivery.
 
 🎥 **Sample Personalized Class:**  
-[Watch here](https://github.com/user-attachments/assets/41f7a91b-0c55-46e6-baa1-d259b8e34042)
+https://github.com/user-attachments/assets/41f7a91b-0c55-46e6-baa1-d259b8e34042
 
 🎥 **Knowledge-Gap Based Lesson Generation:**  
 [Watch here](https://github.com/user-attachments/assets/607a74a2-9b63-4786-8212-fdb9e0aaa4db)
@@ -84,3 +84,4 @@ A passionate team of innovators from the **University of Florida**, dedicated to
 > It *understands* — and then it *teaches you*.”
 
 ---
+

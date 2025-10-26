@@ -1,59 +1,33 @@
-# Gator-Mate Demo Videos
+# 🎥 Gator-Mate Demo Video
 
-This page hosts playable demos for the Gator-Mate hackathon project.  
-Videos are embedded below and should play inline on GitHub. If your repository is **private**, GitHub may block inline playback—use the fallback links provided beneath each player.
-
----
-
-## Physics 101 Generation Demo
-<video width="720" controls>
-  <source src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/gator-mate/demo_vids/phy101_gen_vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>  
-**Fallback:** [Open in GitHub file viewer](./demo_vids/phy101_gen_vid.mp4)
+Welcome to the **Gator-Mate** hackathon demo!  
+Watch the project video presentation below:
 
 ---
 
-## Thermodynamics (Blind-Accessible Version)
-<video width="720" controls>
-  <source src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/gator-mate/demo_vids/thermo_gen_vid_blind.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>  
-**Fallback:** [Open in GitHub file viewer](./demo_vids/thermo_gen_vid_blind.mp4)
+## 🚀 Project Demo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=SODkmJydgMQ" target="_blank">
+    <img src="https://img.youtube.com/vi/SODkmJydgMQ/maxresdefault.jpg" alt="Gator-Mate Demo Video" width="720">
+  </a>
+</p>
+
+👉 **Click the image above** to watch the demo on YouTube.
 
 ---
 
-## Thermodynamics (Basic Version)
-<video width="720" controls>
-  <source src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/gator-mate/demo_vids/thermo_gen_vid_basic.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>  
-**Fallback:** [Open in GitHub file viewer](./demo_vids/thermo_gen_vid_basic.mp4)
+## 🧠 About
+
+The Gator-Mate project demonstrates:
+- AI-generated educational content
+- Accessibility-focused video features
+- Multilingual narration and visual generation
 
 ---
 
-## Hardware Meter Visualization Demo
-<video width="720" controls>
-  <source src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/gator-mate/demo_vids/hwmeter_gen_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>  
-**Fallback:** [Open in GitHub file viewer](./demo_vids/hwmeter_gen_video.mp4)
+## 📜 License
 
----
+All rights reserved © 2025 **Gator-Mate Hackathon Team**.  
+Video hosted on YouTube for demonstration purposes only.
 
-## Multilingual Generation Showcase
-<video width="720" controls>
-  <source src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/gator-mate/demo_vids/multilingual_vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>  
-**Fallback:** [Open in GitHub file viewer](./demo_vids/multilingual_vid.mp4)
-
----
-
-### Notes & Tips
-
-- **Public repo recommended:** Inline playback via `<video>` works reliably when the files are publicly accessible on `raw.githubusercontent.com`.  
-- **Large files:** If your videos are large, consider Git LFS to avoid repository bloat.  
-- **Mobile apps:** Some GitHub mobile clients don’t render inline `<video>`; use the fallback links.
-
-© 2025 Gator-Mate Hackathon Team · For demo and research only.

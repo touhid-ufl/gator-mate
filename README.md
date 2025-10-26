@@ -1,8 +1,8 @@
 # 🎥 Gator-Mate Demo Videos
 
 Welcome to the **Gator-Mate** hackathon showcase!  
-Below are demo videos showcasing Gator-Mate’s capabilities across different modes and languages.  
-Each thumbnail is clickable — tap or click to watch the video on YouTube.
+Below are the official demo videos showcasing Gator-Mate’s capabilities across subjects, accessibility modes, and languages.  
+Each preview includes a play button — just click to watch the video on YouTube.
 
 ---
 
@@ -11,8 +11,12 @@ Each thumbnail is clickable — tap or click to watch the video on YouTube.
 <p align="center">
   <a href="https://www.youtube.com/watch?v=zuUDn7A5M_0" target="_blank">
     <img src="https://img.youtube.com/vi/zuUDn7A5M_0/hqdefault.jpg" 
-         alt="Thermodynamics Generation Demo" width="360">
+         alt="Thermodynamics Generation Demo" width="360" style="border-radius:12px;">
+    <img src="https://www.freeiconspng.com/uploads/youtube-play-button-transparent-png-8.png" 
+         alt="Play Button" width="64" style="position:relative;top:-120px;left:-180px;">
   </a>
+  <br>
+  <em>(click to play)</em>
 </p>
 
 ---
@@ -22,8 +26,12 @@ Each thumbnail is clickable — tap or click to watch the video on YouTube.
 <p align="center">
   <a href="https://www.youtube.com/watch?v=WEuzYl7aTYU" target="_blank">
     <img src="https://img.youtube.com/vi/WEuzYl7aTYU/hqdefault.jpg" 
-         alt="Thermodynamics Blind-Accessible Demo" width="360">
+         alt="Thermodynamics Blind-Accessible Demo" width="360" style="border-radius:12px;">
+    <img src="https://www.freeiconspng.com/uploads/youtube-play-button-transparent-png-8.png" 
+         alt="Play Button" width="64" style="position:relative;top:-120px;left:-180px;">
   </a>
+  <br>
+  <em>(click to play)</em>
 </p>
 
 ---
@@ -33,8 +41,12 @@ Each thumbnail is clickable — tap or click to watch the video on YouTube.
 <p align="center">
   <a href="https://www.youtube.com/watch?v=mDN3sKLmQ4E" target="_blank">
     <img src="https://img.youtube.com/vi/mDN3sKLmQ4E/hqdefault.jpg" 
-         alt="Hardware Metering Visualization" width="360">
+         alt="Hardware Metering Visualization" width="360" style="border-radius:12px;">
+    <img src="https://www.freeiconspng.com/uploads/youtube-play-button-transparent-png-8.png" 
+         alt="Play Button" width="64" style="position:relative;top:-120px;left:-180px;">
   </a>
+  <br>
+  <em>(click to play)</em>
 </p>
 
 ---
@@ -44,8 +56,12 @@ Each thumbnail is clickable — tap or click to watch the video on YouTube.
 <p align="center">
   <a href="https://www.youtube.com/watch?v=nQ_j_5nU-oQ" target="_blank">
     <img src="https://img.youtube.com/vi/nQ_j_5nU-oQ/hqdefault.jpg" 
-         alt="Thermodynamics Spanish Version" width="360">
+         alt="Thermodynamics Spanish Version" width="360" style="border-radius:12px;">
+    <img src="https://www.freeiconspng.com/uploads/youtube-play-button-transparent-png-8.png" 
+         alt="Play Button" width="64" style="position:relative;top:-120px;left:-180px;">
   </a>
+  <br>
+  <em>(click to play)</em>
 </p>
 
 ---
@@ -53,10 +69,10 @@ Each thumbnail is clickable — tap or click to watch the video on YouTube.
 ## 🧠 About
 
 The **Gator-Mate** project demonstrates:
-- 📚 AI-generated educational content  
+- 📚 AI-generated educational video content  
 - ♿ Accessibility-focused narration and visuals  
-- ⚙️ Hardware-integrated visualizations  
-- 🌐 Multilingual support for global learning  
+- ⚙️ Hardware-integrated data visualizations  
+- 🌐 Multilingual learning support  
 
 ---
 

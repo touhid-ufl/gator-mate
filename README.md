@@ -6,8 +6,8 @@ GatorMate generated a full-length class of a graduate-level course at UF- "Intro
 
 https://github.com/user-attachments/assets/41f7a91b-0c55-46e6-baa1-d259b8e34042  
 
-## **Notice:** Given GatorMate’s first-of-its kind nature, the codebase is **not publicly released**.  
-> For verification of the codebase please contact the developers. We are happy to show you the codebase in person: mdtouhidul.islam@ufl.edu, arnabdebnath@ufl.edu, khanthamidhasan@ufl.edu, ymahmud@ufl.edu, md.hasan@ufl.edu
+# **Notice:** Given GatorMate’s first-of-its kind nature, the codebase is **not publicly released**.
+> For verification of the codebase please contact the developers. We are happy to show you the codebase and the running system in person or through a Zoom call: mdtouhidul.islam@ufl.edu, arnabdebnath@ufl.edu, khanthamidhasan@ufl.edu, ymahmud@ufl.edu, md.hasan@ufl.edu
 
 ## **GatorMate** is redefining what it means to teach and learn.  
 
@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/607a74a2-9b63-4786-8212-fdb9e0aaa4db
 ---
 
 ### ♿ Accessibility for the Visually Impaired  
-Student can specify if they need any accessibility aid. Our intelligent AI system automatically describes out loud visual slide content, ensuring accessibility for blind and visually impaired learners. Note that it even **slows down narration speed** when needed for better comprehension.
+Student can specify if they need any accessibility aid. Our intelligent AI system automatically describes out loud visual slide content, ensuring accessibility for blind and visually impaired learners. Note that it even **slows down narration speed** and adds more pauses considering impairment.
  
 https://github.com/user-attachments/assets/a891c1c0-8dcc-4de5-b668-f4dbeada91f8  
 
@@ -34,6 +34,16 @@ GatorMate can **translate and generate** personalized video classes in multiple 
 https://github.com/user-attachments/assets/ac1afd45-17dc-48e2-995f-c3f56dbabe05  
 
 ---
+## ⚙️ Full Features List
+✅ Creates a comprehensive knowledge map outlining what each student knows and doesn’t know about relevant topics.  
+🎙️ Generates lectures with natural tone, emotion, and fluent delivery indistinguishable from a human instructor.  
+🎯 Tailors lecture content to individual needs, adjusting examples, analogies, and explanations dynamically.  
+🎥 Integrates relevant YouTube videos at precise points, showing only necessary segments to aid visual learning.  
+💬 Provides real-time interaction—students can pause, ask questions, and receive context-aware answers instantly, making generated classes dynamic.  
+📚 Generates personalized lecture videos using a student’s knowledge map, course slides, outlines, and transcripts.  
+♿ Produces specialized lectures for impaired students. For example, for visual impairment, it includes detailed verbal diagram descriptions and slower pacing.  
+🌍 Supports multilingual generation, translating English classes into naturally fluent other major languages.  
+🧩 Can generate complete, coherent lectures using only course slides when no transcript is available.  
 
 ## 👩‍💻 Developed By
 
@@ -49,7 +59,15 @@ A team of passionate innovators from the **University of Florida**, dedicated to
 
 ---
 
-This is more than technology — it’s the beginning of **true individualized education**. 
+This is more than technology — it’s the beginning of **a new era of teaching and learning**.
+
+---
+
+
+
+
+
+
 
 
 

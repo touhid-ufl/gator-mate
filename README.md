@@ -49,7 +49,7 @@ A team of passionate innovators from the **University of Florida**, dedicated to
 
 ---
 
-This is more than technology — it’s the beginning of **true individualized education**.
+This is more than technology — it’s the beginning of **true individualized education**. 
 
 
 
